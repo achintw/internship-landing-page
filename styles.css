@@ -610,7 +610,7 @@ body{
 }
 
 .gray{
-    /* position: relative; */
+    position: relative;
     z-index: 100;
     width: 100%;
     height: 500px;
@@ -646,15 +646,17 @@ body{
 }
 
 .name{
+    position: absolute;
+    top: 0%;
     opacity: 0;
     transition: opacity 3s cubic-bezier(.32,.94,.6,1);
 }
 .name.active{ 
     opacity: 1;
     z-index: 2000;
-    position: absolute;
+    /* position: absolute; */
     left: 14%;
-    top: 477%;
+    top: 57%;
 }
 
 .center-text{

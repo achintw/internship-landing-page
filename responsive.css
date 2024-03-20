@@ -1,132 +1,6 @@
 
 /* laptop screen  */
-@media screen and (max-width: 1500px){
-    .Catalogue{
-        font-size:3rem;
-        margin-left: 500px;
-        
-    }
 
-    .img-display img{
-        width: 100%;
-        height: 600px;
-    }
-    .img-display{
-        padding-top: 30px;
-        margin-left: 120px;
-    }
-
-    .home .content h1{
-        margin-left: -200px;
-    }
-
-    .slider-navigation{
-        left: 65%;
-    }
-    .icony.ss{
-        width: 200px;
-        margin-left: -150px;
-    }
-    
-    .about-us-heading{
-        margin-left: 410px;
-        padding-top: 70px;
-    }
-    .tab-navigation{
-        padding-left: 200px;
-    }
-
-    .tab .rows{
-       margin-top: -100px;
-    }
-
-    .left-column{
-        margin-top: -60px;
-        margin-left: -300px;
-    }
-    .info{
-        width: 400px;
-        margin-left: 80px;
-    }
-    .upper-txt p {
-        left: 25%;
-    }
-
-    .container2{
-        margin-left: -90px;
-    }
-    
-    .logos-slide{
-        display: inline-flex;
-        /* margin-left:200px; */
-        /* margin-right: -10px; */
-        gap: 60px;
-        height: 400px;
-        width: 300px;
-        /* background-color: #fff; */
-        display: flex;
-        flex-direction: column;
-        max-height: calc(100vh - 120px);
-        animation: 10s slide linear infinite;
-      }
-    
-
-      .infinity{
-        padding-left: 150px;
-        /* gap: -100px; */
-      }
-    
-      .logos-slide img{
-        opacity: 1;
-        object-fit: cover;
-        /* text-align: center; */
-        border-radius: 10px;
-        margin: 20px 0;
-        height: 400px;
-        width: 300px;
-        transition: all 0.3s ease-in-out;
-      }
-
-      .logos{
-        overflow: hidden;
-        padding: 60px 0;
-        white-space: nowrap;
-      }
-
-      .logos-slide1{
-        margin-left: 550px;
-      }
-      .card > .row > .icon {
-        background: #223;
-        color: white;
-        border-radius: 50%;
-        width: 38px;
-        height: 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 15px;
-        margin-top: 50px;
-    }
-
-    /* continu with giant img */
-    .name h2{
-        font-size: 13rem;
-        margin-top: 100px;
-        margin-left: -50px;
-    }
-
-    .para{
-        left: 0%;
-    }
-    .docker-right img{
-        width: 900px;
-    }
-    .docker-left img{
-        margin-left: 140px;
-        width: 280px;
-    }
-}
 
 
 
@@ -217,7 +91,7 @@
     }
     .name.active{
         left: 12%;
-        top: 300%;
+        /* top: 300%; */
     }
     .giant-img img{
         height: 700px;
@@ -345,7 +219,7 @@
     }
 
     .name.active{
-        top: 473%;
+        /* top: 473%; */
     }
 
     .logos-slide{
@@ -534,7 +408,7 @@
     }
     .name.active{
         left: 8.5%;
-        top: 475%;
+        /* top: 475%; */
     }
     .name h2{
         font-size: 120px;
@@ -849,7 +723,7 @@
         z-index: 2000;
         position: absolute;
         left: 10%;
-        top: 481%;
+        /* top: 481%; */
     }
 
     .giant-img img{
@@ -1151,7 +1025,11 @@
     }
     
     .tab .img-card img{
+        width: 280px;
+    }
+    .info{
         width: 100%;
+        left: 110%;
     }
     .logos-slide1{
         margin-left: 25px;
@@ -1221,7 +1099,7 @@
     }
 
     .name.active{
-        top: 483%;
+        /* top: 483%; */
         left: 9%;
     }
 
@@ -1251,6 +1129,8 @@
     .img-display{
         margin-left: -10px;
     }
+
+    
 
 }
 
