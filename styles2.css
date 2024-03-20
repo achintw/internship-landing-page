@@ -1,0 +1,75 @@
+
+*{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   font-family: 'poppins', sans-serif;
+   font-size: 18px;
+}
+
+@font-face{
+    font-family: 'Gilroy';
+    src: url('./assets/webfonts/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face{
+    font-family: 'ivy';
+    src: url('./assets/webfonts/IvyMode-Regular.ttf') format('truetype');
+    font-weight: normal;
+    /* font-style: italic; */
+}
+
+body{
+    font-family: Gilroy;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-image: url(./assets/images/black-marble.jpg);
+   
+}
+.container{
+   width: 500px;
+   padding: 30px;
+   border: 1px solid #eeeeee;
+   border-radius: 10px;
+   /* background-color: #003b5b; */
+   background-image: url(./assets/images/gfgfgfgfgfgfgfgf.PNG);
+}
+h4{
+    font-family: Gilroy;
+   margin-bottom: 10px;
+   font-size: 24px;
+   color: #333333;
+}
+input{
+    font-family: Gilroy;
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+textarea{
+    font-family: Gilroy;
+   width: 100%;
+   padding: 10px;
+}
+#submit{
+    font-family: Gilroy;
+   border: none;
+   /* background-color: orangered; */
+   background-image: url(./assets/images/black-marble.jpg);
+   color: white;
+   width: 200px;
+   margin-top: 10px;
+   border-radius: 5px;
+}
+#submit:hover{
+   background-color: #6e6e6e;
+}
+
+#main{
+   width: 100%;
+}
+
+

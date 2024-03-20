@@ -1,0 +1,1258 @@
+
+/* laptop screen  */
+@media screen and (max-width: 1500px){
+    .Catalogue{
+        font-size:3rem;
+        margin-left: 500px;
+        
+    }
+
+    .img-display img{
+        width: 100%;
+        height: 600px;
+    }
+    .img-display{
+        padding-top: 30px;
+        margin-left: 120px;
+    }
+
+    .home .content h1{
+        margin-left: -200px;
+    }
+
+    .slider-navigation{
+        left: 65%;
+    }
+    .icony.ss{
+        width: 200px;
+        margin-left: -150px;
+    }
+    
+    .about-us-heading{
+        margin-left: 410px;
+        padding-top: 70px;
+    }
+    .tab-navigation{
+        padding-left: 200px;
+    }
+
+    .tab .rows{
+       margin-top: -100px;
+    }
+
+    .left-column{
+        margin-top: -60px;
+        margin-left: -300px;
+    }
+    .info{
+        width: 400px;
+        margin-left: 80px;
+    }
+    .upper-txt p {
+        left: 25%;
+    }
+
+    .container2{
+        margin-left: -90px;
+    }
+    
+    .logos-slide{
+        display: inline-flex;
+        /* margin-left:200px; */
+        /* margin-right: -10px; */
+        gap: 60px;
+        height: 400px;
+        width: 300px;
+        /* background-color: #fff; */
+        display: flex;
+        flex-direction: column;
+        max-height: calc(100vh - 120px);
+        animation: 10s slide linear infinite;
+      }
+    
+
+      .infinity{
+        padding-left: 150px;
+        /* gap: -100px; */
+      }
+    
+      .logos-slide img{
+        opacity: 1;
+        object-fit: cover;
+        /* text-align: center; */
+        border-radius: 10px;
+        margin: 20px 0;
+        height: 400px;
+        width: 300px;
+        transition: all 0.3s ease-in-out;
+      }
+
+      .logos{
+        overflow: hidden;
+        padding: 60px 0;
+        white-space: nowrap;
+      }
+
+      .logos-slide1{
+        margin-left: 550px;
+      }
+      .card > .row > .icon {
+        background: #223;
+        color: white;
+        border-radius: 50%;
+        width: 38px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px;
+        margin-top: 50px;
+    }
+
+    /* continu with giant img */
+    .name h2{
+        font-size: 13rem;
+        margin-top: 100px;
+        margin-left: -50px;
+    }
+
+    .para{
+        left: 0%;
+    }
+    .docker-right img{
+        width: 900px;
+    }
+    .docker-left img{
+        margin-left: 140px;
+        width: 280px;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 1025px){
+    .righty ul{
+        gap: 50px;
+    }
+ 
+    
+.upper-txt2 .pehla{
+    top: 73.8%;
+    left: 3.6%;
+}
+    .upper-txt2  p{
+        left: 3.5%;
+        top: 76%;
+        font-size: 2.2rem;
+    }
+    .home .content{
+        margin-left: 500px;
+    }
+
+    .batan{
+        margin-top: 0px;
+        margin-left: 400px;
+    }
+
+    .home .content h1{
+        font-size: 3rem;
+    }
+
+    .child.bg1, .child.bg3, .child.bg4, .child.bg6{
+        width: 300px;
+        height: 200px;
+    }
+
+    .parent.p1, .parent.pp1, .parent.p3, .parent.pp3{
+        width: 300px;
+        height: 200px;
+    }
+
+    .parent.p2, .parent.pp2, .parent.p2.child{
+        width: 200px;
+        height: 300px;
+    }
+
+    .p1{
+        margin-left: 60px;
+    }
+
+    .p2{
+        margin-left: 80px;
+    }
+
+    .p3{
+        margin-left: 20px;
+    }
+
+    .pp2{
+        margin-left: -100px;
+    }
+    .pp3{
+        margin-left: -80%;
+    }
+
+
+    .center-text{
+        left:36%;
+    }
+
+    .center-text h2{
+        font-size: 8rem;
+    }
+    .center-text p{
+        font-size: 2rem;
+    }
+
+
+    .gray{
+        height: 300px;
+    }
+
+    .name h2{
+        font-size: 140px;
+    }
+    .name.active{
+        left: 12%;
+        top: 300%;
+    }
+    .giant-img img{
+        height: 700px;
+    }
+
+
+    .docker-right img{
+        top: 365%;
+        width: 600px;
+        height: 400px;
+    }
+
+    .docker-left img{
+        margin-left: 60px;
+        width: 70%;
+        height: 30%;
+    }
+    .docker{
+        height: 90vh;
+    }
+
+
+    .text-sec{
+        height: 90vh;
+    }
+
+    .left-texter p{
+        margin-left: 100px;
+        font-family: "ivy", sans-serif;
+        font-size: 5rem;
+        color: #161616;
+        line-height: 80%;
+    }
+
+    .right-texter p{
+        margin-top: 50px;
+        margin-right: 100px;
+        font-size: 1.15rem;
+        letter-spacing: -.02em;
+        font-family: "ivy", sans-serif;
+        color: #161616;
+    }
+
+    .txtx p{
+        margin-left: -60px;
+    }
+
+    .about-us-heading{
+        font-family: "ivy", sans-serif;
+        font-size: 6rem;
+        margin-left: 180px;
+        padding-top: 100px;
+    }
+    .tab-nav-bar{
+        left: 11%;
+    }
+
+    .description{
+        font-size: 0.9rem;
+    }
+    .info{
+        width: 300px;
+    }
+
+    .left-column{
+        padding-right: 40px;
+    }
+
+    .right-column{
+        padding-right: 100px;
+    }
+
+    .work-with-us p{
+        font-family: "ivy", sans-serif;
+        font-size: 12rem;
+        color: #f4f3f1;
+    }
+
+    .footer-left{
+        padding-left: 60px;
+        padding-top: 20px;
+    }
+
+    .footer-right{
+        margin-top: 80px;
+        margin-right: 60px;
+    }
+
+    .upper-txt p{
+        top: -5%;
+        font-size: 5rem;
+        left: 23%;
+    }
+
+    .container2{
+        height: 320px;
+        width: 700px;
+        left: 20%;
+    }
+    .description2{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .description2 p {
+        font-family: Gilroy;
+        color: #2e2e2e;
+        font-weight: 600;
+        /* padding-left: 30px; */
+        padding-bottom: 250px;
+        font-size: 0.9rem;
+        /* padding-top: 150px; */
+    }
+    
+    .description2 h4{
+        font-size: 1.5rem;
+    }
+
+    .wrapper{
+        left: 12%;
+    }
+
+    .infinity{
+        padding-left: 100px;
+        /* width: 80%; */
+    }
+
+    .name.active{
+        top: 473%;
+    }
+
+    .logos-slide{
+        display: inline-flex;
+        /* margin-left:200px; */
+        /* margin-right: -10px; */
+        gap: 60px;
+        height: 200px;
+        width: 300px;
+        /* background-color: #fff; */
+        display: flex;
+        flex-direction: column;
+        max-height: calc(100vh - 120px);
+        animation: 10s slide linear infinite;
+      }
+    
+
+      .infinity{
+        padding-left: 150px;
+        /* gap: -100px; */
+      }
+    
+      .logos-slide img{
+        opacity: 1;
+        object-fit: cover;
+        /* text-align: center; */
+        border-radius: 10px;
+        margin: 20px 0;
+        height: 300px;
+        width: 200px;
+        transition: all 0.3s ease-in-out;
+      }
+
+      .logos{
+        overflow: hidden;
+        padding: 60px 0;
+        white-space: nowrap;
+      }
+
+      .logos-slide1{
+        margin-left: 250px;
+      }
+      .card > .row > .icon {
+        background: #223;
+        color: white;
+        border-radius: 50%;
+        width: 38px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px;
+        margin-top: 50px;
+    }
+
+    .docker-right img{
+        position: absolute;
+        right: 0%;
+        top: 35%;
+        width: 600px;
+        height: 55%;
+        /* transform: translateX(100%); */
+        opacity: 0;
+        transition: opacity 5s ease-in-out;
+    }
+    .docker-left img{
+        margin-top: 350px;
+        width: 70%;
+        height: 40%;
+    }
+    .docker{
+        position: relative;
+        background-color: #161616;
+        display: flex;
+        width: 100%;
+        height: 80vh;
+    }
+    
+    .rows{
+        padding-left: 350px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .left-column{
+        width: 50%;
+        padding-bottom: 500px;
+    }
+    .img-card{
+        width: 100%;
+        padding-top: 00px;
+        padding-right: 150px;
+    }
+    .left-column .img-card img{
+        width: 120%;
+        /* margin-top: 200px; */
+    }
+    .left-column{
+        padding-bottom: 300px;
+    }
+    .right-column{
+        height: 50%;
+        width: 50%;
+        margin-bottom: 250px ;
+        padding-right: 0px;
+    }
+    .info{
+        width: 100%;
+    }
+    .right-column{
+        max-width: 50%;
+    }
+    .img-card{
+        width: 100%;
+        left: 0;
+    }
+    .right-column{
+        width: 100%px;
+    }
+    .rows{
+        position: absolute;
+        top: -200%;
+    }
+
+    .tab-navigation{
+        padding-left: 120px;
+    }
+
+}
+
+/* tablet screen  */
+@media screen and (max-width: 769px){
+
+    .footer-left{
+        padding-left: 30px;
+    }
+    .footer-left img{
+        margin-top: 30px;
+        width: 80%;
+    }
+    .footer-left p{
+        font-size: 0.8rem;
+    }
+    .footer-mid a{
+        font-size: 0.8rem;
+    }
+    .footer-right p{
+        font-size: 0.8rem;
+    }
+    .footer-right{
+        padding-left: 45px;
+    }
+
+    .work-with-us p{
+        font-family: "ivy", sans-serif;
+        font-size: 10rem;
+        color: #f4f3f1;
+    }
+    .work-with-us .xoxo{
+        padding-top: 50px;
+        font-family: "ivy", sans-serif;
+        font-size: 0.9rem;
+        color: #f4f3f1;
+    }
+
+    .docker-right img{
+        position: absolute;
+        right: 0%;
+        top: 55%;
+        width: 470px;
+        height: 55%;
+        /* transform: translateX(100%); */
+        opacity: 0;
+        transition: opacity 5s ease-in-out;
+    }
+    .docker-left img{
+        margin-top: 430px;
+        width: 70%;
+        height: 45%;
+    }
+    .docker{
+        position: relative;
+        background-color: #161616;
+        display: flex;
+        width: 100%;
+        height: 60vh;
+    }
+    .name.active{
+        left: 8.5%;
+        top: 475%;
+    }
+    .name h2{
+        font-size: 120px;
+    }
+    .giant-img{
+        height: 600px;
+        width: 140%;
+    }
+
+    .infinity{
+        padding-left: 160px;
+        /* gap: -100px; */
+      }
+    
+      .logos-slide img{
+        opacity: 1;
+        object-fit: cover;
+        /* text-align: center; */
+        border-radius: 10px;
+        margin: 20px 0;
+        height: 250px;
+        width: 150px;
+        transition: all 0.3s ease-in-out;
+      }
+
+      .logos{
+        overflow: hidden;
+        padding: 60px 0;
+        white-space: nowrap;
+      }
+
+      .logos-slide1{
+        margin-left: 180px;
+      }
+
+      .upper-txt2 p{
+        top: 73%;
+        left: 5%;
+      }
+      .upper-txt2  p{
+        left: 3.5%;
+        top: 78%;
+        font-size: 2.2rem;
+    }
+    
+.upper-txt2 .pehla{
+    top: 75.8%;
+    left: 3.3%;
+}
+      .overlayxx{
+        top: 48.9%;
+      }
+
+    .container2{
+        height: 320px;
+        width: 600px;
+        left: 20%;
+    }
+    .description2{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .description2 p {
+        font-family: Gilroy;
+        color: #2e2e2e;
+        font-weight: 600;
+        /* padding-left: 30px; */
+        padding-bottom: 250px;
+        font-size: 0.9rem;
+        /* padding-top: 150px; */
+    }
+    
+    .description2 h4{
+        font-size: 1.5rem;
+    }
+
+    .wrapper{
+        left: 12%;
+    }
+
+    .card > .row > .icon {
+        background: #223;
+        color: white;
+        border-radius: 50%;
+        width: 38px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px;
+        margin-top: 70px;
+    }
+
+    .upper-txt p{
+        top: -3%;
+        left: 17%;
+    }
+
+    .about-us-heading{
+        font-family: "ivy", sans-serif;
+        font-size: 4rem;
+        margin-left: 170px;
+        padding-top: 200px;
+    }
+
+    .tab-nav-bar{
+        position: absolute;
+        margin: 35px 10px 40px 10px;
+        left: 7%;top: 10%;
+    }
+
+    
+.info{ 
+    margin-left: -70px;
+    /* margin-top: -100px; */
+}
+.info .description p{
+    font-size: 0.7rem;
+}
+.tab .img-card{
+    position: relative;
+    width: 300px;
+    /* margin-top: -100px; */
+    margin-left: 0px;
+    margin-right: 50px;
+    max-width: 450px;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: var(--box-shadow); */
+}
+
+.some-div{
+    margin-left: -100px;
+}
+.icony{
+    margin-left: -100px;
+}
+.slider-navigation{
+    left: 55%;
+}
+
+.dd{
+    margin-left: -400px;
+}
+.ss{
+    margin-left: -400px;
+}
+.giant-img img {
+    width: 100%;
+    height: 550px;
+}
+.giant-img.active{
+    width: 100%;
+}
+.docker-left img{
+    margin-top: 150px;
+}
+.docker-right img{
+    top: 30%
+}
+.rorokar{
+    width: 130px;
+}
+.work-with-us a{
+    margin-left: 15px;
+}
+.tab-navigation{
+    padding-left: 50px;
+}
+.about-us-heading{
+    padding-top: 130px;
+}
+.tab-nav-bar{
+    top:6%
+}
+.righty ul{
+    margin-top: 30px;
+}
+.rows{
+    padding-left: 100px;
+}
+.left-column{
+    margin-top: 0px;
+    /* padding-bottom: 200px; */
+    padding-left: 100px;
+}
+
+.left-column .img-card img{
+    width: 100%;
+}
+.right-column{
+    padding-left: 100px;
+}
+.tab .img-card{
+    width: 300px;
+    padding-right: 0px;
+}
+.left-column .img-card img{
+    width: 300px;
+}
+.tab .rows{
+    gap: 60px
+}
+
+.right-column{
+    padding-left: 0px;
+    margin-left: 120px;
+}
+
+.info{
+    width: 300px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 426px){
+    footer{
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+    .footer-left{
+        padding-left: 10px;
+        padding-right: 45px;
+    }
+    .footer-left img{
+        margin-top: 50px;
+        width: 80%;
+    }
+    .footer-left p{
+        font-size: 0.4rem;
+    }
+    .footer-mid img{
+        font-size: 0rem;
+        width: 60%;
+    }
+    .footer-mid a{
+        font-size: 0;
+    }
+    .footer-right p{
+        font-size: 0.6rem;
+    }
+    .footer-right{
+        padding-left: 45px;
+    }
+
+    .work-with-us{
+        padding-top: 200px;
+        padding-bottom: 300px;
+        height: 50vh;
+    }
+    .work-with-us p{
+        font-family: "ivy", sans-serif;
+        font-size: 5rem;
+        color: #f4f3f1;
+        margin-left: 0px;
+    }
+    .work-with-us .xoxo{
+        padding-top: 350px;
+        font-family: "ivy", sans-serif;
+        font-size: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 2px;
+        color: #f4f3f1;
+        margin-left: 35px;
+    }
+    .work-with-us a{
+        margin-left: 100px;
+    }
+    .docker-right img{
+        position: absolute;
+        right: 5%;
+        top: 22%;
+        width: 230px;
+        height: 35%;
+        /* transform: translateX(100%); */
+        opacity: 0;
+        transition: opacity 5s ease-in-out;
+    }
+    .docker-left img{
+        margin-top: 130px;
+        width: 65%;
+        height: 30%;
+    }
+    .docker{
+        position: relative;
+        background-color: #161616;
+        display: flex;
+        width: 100%;
+        height: 60vh;
+    }
+
+    .name h2{
+        font-size: 4rem;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .acc-txt{
+        opacity: 0;
+    }
+
+    .name.active{ 
+        opacity: 1;
+        z-index: 2000;
+        position: absolute;
+        left: 10%;
+        top: 481%;
+    }
+
+    .giant-img img{
+        width: 100%;
+        height: 300px;
+    }
+    
+    .giant-img{
+        transform: translateY(100%);
+        object-fit: cover;
+        object-position: center;
+        transition: transform 1s cubic-bezier(.32,.94,.6,1);
+    }
+
+    .projects{
+        height: 70vh;
+    }
+
+    
+    .infinity{
+        padding-left:0px;
+        /* width: 80%; */
+    }
+    .logos-slide{
+        margin-left: 0px;
+    }
+    .logos-slide1{
+        margin-left: 50px;
+    }
+
+    .container2{
+        height: 220px;
+        width: 350px;
+        left: 20%;
+    }
+    .description2{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .description2 p {
+        font-family: Gilroy;
+        color: #2e2e2e;
+        font-weight: 600;
+        /* padding-left: 30px; */
+        padding-bottom: 20px;
+        padding-left: 10px;
+        font-size: 0.7rem;
+        /* padding-top: 150px; */
+    }
+    
+    .description2 h4{
+        font-size: 1.1rem;
+        padding-left: 10px;
+    }
+
+    .wrapper{
+        left: 7%;
+    }
+    .container2{
+        flex-direction: column;
+        gap: 7px;
+    }
+
+    .card > .row > .icon {
+        background: #223;
+        color: white;
+        border-radius: 50%;
+        width: 28px;
+        height: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        margin-top: 223px;
+        margin-left: 30px;
+    }
+    input:checked + label {
+        height: 1000px;
+        width: 350px;
+    }
+    
+    input:checked + label .description2 {
+        opacity: 1 !important;
+        transform: translateX(0) !important;
+    }
+
+
+    .upper-txt p{
+        font-size: 3rem;
+        left:15%;
+    }
+
+    input{
+        width: 600px;
+    }
+
+    .upper-txt2 p{
+        opacity:0;
+    }
+
+
+    .some-div{
+        margin-left: -450px;
+    }
+    .icony{
+        margin-left: -450px;
+    }
+    .slider-navigation{
+        left: 155%;
+    }
+
+    .dissdsad{
+        opacity: 0;
+    }
+    .righty ul{
+        margin-left: 140px;
+        margin-top: 38px;
+    }
+
+    .same2{
+        padding-left: 350px;
+    }
+
+    .main-container{
+        width: 100%;
+    }
+
+    .giant-img{
+        width: 100%;
+    }
+    .dd{
+        margin-left: -495px;
+    }
+    .ss{
+        margin-left: -350px;
+    }
+
+    .rows{
+        display: flex;
+        flex-direction: column;
+        padding-left: 270px;
+        position:absolute;
+        left: -80%;
+        top: -500%;
+    }
+    .info{
+        padding-left: 100px;
+    }
+    .tab-menu{
+        width: 65%;
+    }
+    .tab-nav-bar{
+        left: -17%;
+        top: 0%;
+    }
+    .about-us-heading{
+        padding-top: 100px;
+        margin-left: 50px;
+        font-size: 3rem;
+    }
+    .lefty img{
+        margin-top: 20px;
+        width: 60%;
+    }
+    .lefty{
+        flex: 1;
+    }
+    .righty{
+        flex: 1;
+    }
+    
+    .tab-nav-bar{
+        width: 100%;
+    }
+
+    .logos-slide{
+        width: 150px;
+    }
+    .righty{
+        flex: 1;
+        padding-block: 0px;
+    }
+    .righty ul{
+        width: 0px;
+        height: 0px;
+        margin-left: 0px;
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+    .yyyy{
+        position: absolute;
+        left: 70%;
+        top: 50%;
+    }
+    .lefty a{
+        padding-left: 10%;
+    }
+    .lefty{
+        width: 200px;
+    }
+    .dissdsad{
+        width: 0px;
+        height: 0px;
+    }
+    .home .content.active{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .some-div{
+        margin-left: 30px;
+    }
+    .tab-navigation{
+        /* padding-left: 50px; */
+        /* padding-left: 300px; */
+        padding-left: 0px;
+        width: 100%;
+        padding-right: 0px;
+        /* object-fit: cover; */
+    }
+    .tab-menu{
+        
+        width: 350px;
+    }
+    .tab-nav-bar{
+        padding-left: 46px;
+        margin-left: 50px;
+    }
+
+    .tab .img-card{
+        width: 300px;
+        margin-left: 126px;
+        margin-top: -80px;
+    }
+    .tab .img-card img{
+        width: 100%;
+    }
+    .info{
+        position: absolute;
+        top: 18%;
+        left: 120%;
+    }
+    .about-us-heading{
+        padding-top: 80px;
+    }
+    .tab-nav-bar{
+        margin-top: -25px;
+        /* margin-left: -1px; */
+    }
+    .work-with-us a{
+        margin-left: 7px;
+    }
+    .logos-slide{
+        margin-right: 20px;
+    }
+}
+
+@media screen and (max-width: 385px){
+    .tab .img-card{
+        width: 230px;
+    }
+
+    .container2{
+        width: 330px;
+        margin-left: -15px;
+    }
+
+    label.card{
+        max-width: 330px;
+    }
+    .rorokar{
+        width: 100%;
+    }
+
+    .name.active{
+        left: 5%;
+    }
+
+    .docker-right img{
+        width: 50%;
+        height: 25%;
+    }
+    .docker-left img{
+        width: 65%;
+        height: 25%;
+    }
+    .upper-txt p{
+        font-size: 2.5rem;
+    }
+    .about-us-heading{
+        font-size: 2.5rem;
+        margin-left: 50px;
+    }
+    .tab-nav-bar{
+        padding-left: 28px;
+    }
+    .tab .img-card{
+        width: 280px;
+        margin-left: 80px;
+    }
+    
+    .tab .img-card img{
+        width: 100%;
+    }
+    .logos-slide1{
+        margin-left: 25px;
+    }
+   .batan{
+    margin-left: 500px;
+   }
+
+   .footer-right{
+    width: 0px;
+   }
+   .footer-right p{
+    font-size:0px;
+   }
+   .Catalogue{
+    font-size: 1.8rem;
+    margin-left: 60px;
+}
+}
+
+@media screen and (max-width: 320px){
+    .home .content h1 {
+        font-size: 2.3rem;
+        line-height: 1.2;
+    }
+
+    .about-us-heading{
+        font-size: 2rem;
+    }
+
+    .tab-nav-bar{
+        margin-left: 40px;
+    }
+    .tab-menu{
+        width: 100%;
+    }
+    .tab .img-card{
+        width: 260px;
+        margin-left: 30px;
+    }
+    .info{
+        padding-left: 50px;
+    }
+
+    .upper-txt p{
+        font-size: 2rem;
+        margin-left: 5px;
+        margin-top: 40px;
+    }
+
+    .container2{
+        width: 100%;
+    }
+    label.card{
+        max-width: 275px;
+        margin-left: 17px;
+    }
+    .logos-slide{
+        width: 130px;
+    }
+    .logos-slide img{
+        width: 130px;
+    }
+
+    .name h2{
+        font-size: 3rem;
+    }
+
+    .name.active{
+        top: 483%;
+        left: 9%;
+    }
+
+    .giant-img img{
+        height: 230px;
+    }
+
+    .work-with-us p {
+        font-size: 4.4rem;
+    }
+
+    .work-with-us .xoxo{
+        height: 0px;
+        width: 0px;
+        font-size: 0;
+    }
+
+    .Catalogue{
+        font-size: 1.5rem;
+        margin-left: 50px;
+    }
+
+    .img-display img{
+        width: 110%;
+        height: 200px;
+    }
+    .img-display{
+        margin-left: -10px;
+    }
+
+}
+
+
+
